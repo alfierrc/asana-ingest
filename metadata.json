@@ -1,0 +1,4 @@
+{
+  "name": "AsanaToLLM Ingest",
+  "description": "A developer-focused tool to ingest Asana tasks, comments, and subtasks into a Markdown format suitable for LLM context."
+}
